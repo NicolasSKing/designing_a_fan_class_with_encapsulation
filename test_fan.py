@@ -12,3 +12,9 @@ second_fan.set_radius(5)
 second_fan.set_color("blue")
 second_fan.set_on(False)
 
+print("Fan 1")
+print("Speed:", first_fan.get_speed())
+print("Radius:", first_fan.get_radius())
+print("Color:", first_fan.get_color())
+print("On:", first_fan.get_on())
+
