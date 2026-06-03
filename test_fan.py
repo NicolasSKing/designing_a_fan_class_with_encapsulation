@@ -18,3 +18,10 @@ print("Radius:", first_fan.get_radius())
 print("Color:", first_fan.get_color())
 print("On:", first_fan.get_on())
 
+print()
+
+print("Fan 2")
+print("Speed:", second_fan.get_speed())
+print("Radius:", second_fan.get_radius())
+print("Color:", second_fan.get_color())
+print("On:", second_fan.get_on())
